@@ -21,5 +21,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+[New_Blockchain_Prompt_Analysis.pdf](https://github.com/user-attachments/files/27898710/New_Blockchain_Prompt_Analysis.pdf)
 
 RESULT:
+Thus evaluvation and comparison of prompting techniques based on the given terms were done successfully.
